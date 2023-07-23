@@ -1,0 +1,4 @@
+TOKEN=""
+settings = {
+	"TOKEN": "MTEzMjY5MDY3NDcxODg4Nzk5Nw.GFj_kZ.LOTyEmthj3RZxk6JTl-lVTWl6jAnU4F8E30dYA"
+}
